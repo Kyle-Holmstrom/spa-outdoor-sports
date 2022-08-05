@@ -1,0 +1,34 @@
+.home-container {
+    color: #20d5c2;
+    background: url("../Images/ready_for_adventure.jpg");
+    height: 100vh;
+    width: 100%; 
+    overflow: hidden;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.home-content {
+    background-color: #FDFCFA;
+    opacity: 95%;
+    margin: 100px auto;
+    height: 50%;
+    width: 40%;
+}
+
+.home-content-text {
+    opacity: 100;
+    background-color: #FDFCFA;
+}
+
+.home-content-text {
+    padding: 0px 50px;
+    letter-spacing: 2px;
+}
+
+.home-content-text > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}

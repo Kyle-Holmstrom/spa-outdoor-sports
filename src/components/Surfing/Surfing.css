@@ -1,0 +1,34 @@
+.surf-container {
+    color: #20d5c2;
+    background: url("../Images/surfing_man.jpg");
+    height: 100vh;
+    width: 100%; 
+    overflow: hidden;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.surf-content {
+    background-color: #FDFCFA;
+    opacity: 90%;
+    margin: 100px auto;
+    height: 50%;
+    width: 40%;
+}
+
+.surf-content-text {
+    padding: 0px 50px;
+    letter-spacing: 2px;
+}
+
+.surf-content-text {
+    opacity: 100;
+    background-color: #FDFCFA;
+}
+
+.surf-content-text > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
