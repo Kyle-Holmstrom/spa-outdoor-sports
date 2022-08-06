@@ -5,13 +5,15 @@ form > label {
 }
 
 form > textarea {
-    width: 25%;
-    height: 120px;
+    width: 50%;
+    height: 140px;
 }
 
 .contact-container {
     font-family: 'Open Sans', sans-serif;
-    color: #20d5c2;
+    /* color: #20d5c2; */
+    color: white;
+    background-color: black;
     font-size: 1.2rem;
     background: url("../Images/birds_flying.jpg") no-repeat center;
     height: 100vh;
@@ -31,6 +33,7 @@ form > textarea {
     background: #00bcd4;
     color: #fff;
     border: none;
+    margin-top: 15px;
     padding: 0.5rem 1rem;
     border-radius: 0.25rem;
     cursor: pointer;
@@ -40,4 +43,12 @@ form > textarea {
 
 .submit-btn:hover {
     background: #0097a7;
+}
+
+.contact-content {
+    background-color: black;
+    opacity: 90%;
+    margin: 100px auto;
+    height: 50%;
+    width: 40%;
 }

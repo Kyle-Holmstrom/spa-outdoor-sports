@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  background-color: #FDFCFA;
+  /* background-color: #FDFCFA; */
+  background-color: black;
   overflow: hidden;
   margin-top: -30px;
 }
@@ -11,11 +12,13 @@
   padding: 3px;
   list-style: none;
   text-decoration: none;
-  color: #20d5c2;
+  /* color: #20d5c2; */
+  color: white;
   font-weight: bold;
 }
 
 .App-header > li > a:hover {
-  background: #00bcd4;
-  color: #fff;
+  /* background: #00bcd4; */
+  background-color: white;
+  color: black;
 }

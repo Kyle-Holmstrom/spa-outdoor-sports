@@ -1,5 +1,6 @@
 .surf-container {
-    color: #20d5c2;
+    /* color: #20d5c2; */
+    color: white;
     background: url("../Images/surfing_man.jpg");
     height: 100vh;
     width: 100%; 
@@ -10,7 +11,8 @@
 }
 
 .surf-content {
-    background-color: #FDFCFA;
+    /* background-color: #FDFCFA; */
+    background-color: black;
     opacity: 90%;
     margin: 100px auto;
     height: 50%;
@@ -24,7 +26,8 @@
 
 .surf-content-text {
     opacity: 100;
-    background-color: #FDFCFA;
+    /* background-color: #FDFCFA; */
+    background-color: black;
 }
 
 .surf-content-text > ul {

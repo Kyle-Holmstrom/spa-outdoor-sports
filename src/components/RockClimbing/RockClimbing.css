@@ -1,5 +1,6 @@
 .rock-container {
-    color: #20d5c2;
+    /* color: #20d5c2; */
+    color: white;
     background: url("../Images/climbing_women2.jpg");
     height: 100vh;
     width: 100%; 
@@ -10,7 +11,8 @@
 }
 
 .rock-content {
-    background-color: #FDFCFA;
+    /* background-color: #FDFCFA; */
+    background-color: black;
     opacity: 90%;
     margin: 100px auto;
     height: 50%;
@@ -19,7 +21,8 @@
 
 .rock-content-text {
     opacity: 100;
-    background-color: #FDFCFA;
+    /* background-color: #FDFCFA; */
+    background-color: black;
 }
 
 .rock-content-text {
