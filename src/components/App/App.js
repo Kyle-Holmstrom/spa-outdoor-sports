@@ -27,7 +27,7 @@ const App = () => {
                 <Link to="/surfing">Surfing</Link>
               </li>
               <li>
-                <Link to="/contact">Contact Us</Link>
+                <Link to="/contact">Contact</Link>
               </li>
             </ul>
             <Routes>

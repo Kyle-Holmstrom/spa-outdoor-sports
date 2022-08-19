@@ -20,13 +20,14 @@
 }
 
 .home-content-text {
-    opacity: 100;
     /* background-color: #FDFCFA; */
-}
-
-.home-content-text {
+    opacity: 100;
     padding: 0px 50px;
     letter-spacing: 2px;
+}
+
+.home-content-text h1 {
+    padding-top: 25px;
 }
 
 .home-content-text > ul {

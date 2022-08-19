@@ -3,7 +3,10 @@
   /* background-color: #FDFCFA; */
   background-color: black;
   overflow: hidden;
+  position: fixed;
+  width: 100%;
   margin-top: -30px;
+  margin-bottom: 5px;
 }
 
 .App-header > li, a {
